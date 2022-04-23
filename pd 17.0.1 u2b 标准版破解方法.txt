@@ -1,0 +1,10 @@
+pd 17.0.1 u2b 标准版破解方法
+
+替换到这里：/Applications/Parallels Desktop.app/Contents/MacOS/Parallels Service.app/Contents/MacOS/prl_disp_service
+
+
+
+https://download.parallels.com/desktop/v17/17.0.1-51482/ParallelsDesktop-17.0.1-51482.dmg
+
+
+如果Parallels账号已经登陆过的，请退出后重新登录账号，即可激活标准版PD
